@@ -1,0 +1,6 @@
+D:\training\SolidPrinciples\SingleResponsibiltyPrinciple\obj\Debug\SingleResponsibiltyPrinciple.csproj.AssemblyReference.cache
+D:\training\SolidPrinciples\SingleResponsibiltyPrinciple\obj\Debug\SingleResponsibiltyPrinciple.csproj.CoreCompileInputs.cache
+D:\training\SolidPrinciples\SingleResponsibiltyPrinciple\bin\Debug\SingleResponsibiltyPrinciple.dll
+D:\training\SolidPrinciples\SingleResponsibiltyPrinciple\bin\Debug\SingleResponsibiltyPrinciple.pdb
+D:\training\SolidPrinciples\SingleResponsibiltyPrinciple\obj\Debug\SingleResponsibiltyPrinciple.dll
+D:\training\SolidPrinciples\SingleResponsibiltyPrinciple\obj\Debug\SingleResponsibiltyPrinciple.pdb

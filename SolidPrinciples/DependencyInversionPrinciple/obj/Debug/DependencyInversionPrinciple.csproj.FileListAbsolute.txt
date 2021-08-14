@@ -1,0 +1,6 @@
+D:\training\SolidPrinciples\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe.config
+D:\training\SolidPrinciples\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe
+D:\training\SolidPrinciples\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.pdb
+D:\training\SolidPrinciples\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+D:\training\SolidPrinciples\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.exe
+D:\training\SolidPrinciples\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.pdb
